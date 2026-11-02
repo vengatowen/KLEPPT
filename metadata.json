@@ -1,0 +1,6 @@
+{
+  "name": "Data Cleaning & Preparation — Workshop Deck",
+  "description": "Interactive 51-slide 16:9 instructor-led presentation on data cleaning in Excel 365, Excel 2021, Google Sheets, Power Query, and AI by Aishwerya R.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
